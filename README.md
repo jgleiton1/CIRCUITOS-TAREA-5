@@ -72,6 +72,18 @@
 
 **5. Conclusiones**
 
+- Como conclusión se tiene que las ecuaciones simultáneas se componen de un conjunto de n ecuaciones que contiene n incógnitas, donde n es un número con un valor de 2 o más. Es importante que el número de ecuaciones incluidas en el conjunto sean igual al número de incógnitas. Cabe recalcar que se puede solucionar por sustitución, determinantes o mediante calculadora.
+
+- Tambien se tiene que el método de la corriente en ramas es un método que permite determinar la corriente que circula en cada rama de un circuito generando ecuaciones simultáneas, y cuando se conozcan las corrientes presentes en las ramas, se pueden determinar los voltajes.
+
+- El análisis en nodos se trata de identificar las corrientes presentes en el nodo que se quiere saber su voltaje y utilizarlas según la ley de la corriente de Kirchhoff para poder realizar sistemas de ecuaciones, pero transformando las corrientes en función del voltaje y la resistencia para hallar el voltaje del nodo.
+
+- El campo magnético consta de líneas de fuerza que al agruparse forman un flujo donde su densidad se ve determinada por el área trasversal del material por donde pase, pero dependerá de la permeabilidad que es la capacidad de poder tener un campo magnético. Además, un material puede convertirse en un imán, es decir, ser magnetizado si posee dominios magnéticos ya que al estar en presencia de un campo magnético se alinean sus dominios generando que actúe como un imán.
+
+- Se tiene que la intensidad de campo magnético puede ser incrementada o reducida con facilidad variando la corriente a través de la bobina de alambre, y puede ser invertida invirtiendo la polaridad del voltaje presente en la bobina.
+
+- La ley de Faraday establece que un campo magnético cambiante induce un voltaje en una bobina que es directamente proporcional a la velocidad de cambio del campo magnético y al número de vueltas que haya en la bobina.
+
 ***
 
 **6. Bibliografía**
