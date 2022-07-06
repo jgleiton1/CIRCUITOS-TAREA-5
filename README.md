@@ -14,7 +14,7 @@
 
    **1.1. Objetivo General** 
    
-- Investigar sobre "Circuitos en serie - paralelo" y "Teorema de circuitos y conversiones", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
+- Investigar sobre "Analisis de ramas, lazos y conversiones" y "Magnetismo y electromagnetismo", mediante el libro establecido en hora de clase "Principios de circuitos electricos de Floyd" para lograr una mejor comprensión de la materia durante el periodo de mayo a septiembre del 2022.
 
 ***
 
@@ -30,17 +30,39 @@
 
 **2. Marco Teórico**
 
-Capitulo 9
+**Capitulo 9**
 
-Capitulo 10
+9–1 Ecuaciones simultáneas en el análisis de circuitos
+
+9–2 Método de la corriente en ramas
+
+9–3 Método de la corriente en trayectorias cerradas
+
+9–4 Método del voltaje en nodos
+
+**Capitulo 10**
+
+10–1 El campo magnético
+
+10–2 Electromagnetismo
+
+10–3 Dispositivos electromagnéticos
+
+10–4 Histéresis magnética
+
+10–5 Inducción electromagnética
+
+10–6 Aplicaciones de la inducción electromagnética
 
 ***
 
 **3. Explicacion y resolucion de ejercicios o problemas**
 
-Capítulo 9
+**Capítulo 9**
 
-Capitulo 10
+
+
+**Capitulo 10**
 
 ***
 
