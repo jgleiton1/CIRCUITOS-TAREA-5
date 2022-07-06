@@ -34,25 +34,45 @@
 
 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
+![Untitled Diagram (26)](https://user-images.githubusercontent.com/94011974/177643051-101b2762-3c7b-4969-8c59-fc76adcccdea.jpg)
+
 9–2 Método de la corriente en ramas
+
+![Untitled Diagram (27)](https://user-images.githubusercontent.com/94011974/177643096-298dcaf7-fde1-4bff-8c90-2840dd2dece6.jpg)
 
 9–3 Método de la corriente en trayectorias cerradas
 
+![Untitled Diagram (28)](https://user-images.githubusercontent.com/94011974/177643123-f5c87166-212d-4518-bb03-5c87fd590cfb.jpg)
+
 9–4 Método del voltaje en nodos
+
+![Untitled Diagram (29)](https://user-images.githubusercontent.com/94011974/177643159-a249304b-4def-4060-8f76-b3463f896518.jpg)
 
 **Capitulo 10**
 
 10–1 El campo magnético
 
+![Untitled Diagram (31)](https://user-images.githubusercontent.com/94011974/177643172-2c60de59-7e0f-4abe-b474-263d7778824d.jpg)
+
 10–2 Electromagnetismo
+
+![Untitled Diagram (32)](https://user-images.githubusercontent.com/94011974/177643187-3964d05f-a0cb-40ab-8ce9-d44c485bf196.jpg)
 
 10–3 Dispositivos electromagnéticos
 
+![Untitled Diagram (33)](https://user-images.githubusercontent.com/94011974/177643220-8ab1e42d-699a-4657-a127-48c5c89826cb.jpg)
+
 10–4 Histéresis magnética
+
+![Untitled Diagram (34)](https://user-images.githubusercontent.com/94011974/177643232-610479c6-caa8-436c-93d8-c94bf06a2a2d.jpg)
 
 10–5 Inducción electromagnética
 
+![Untitled Diagram (35)](https://user-images.githubusercontent.com/94011974/177643252-4717356d-73ea-49c8-ab64-cba4caae1b84.jpg)
+
 10–6 Aplicaciones de la inducción electromagnética
+
+![Untitled Diagram (36)](https://user-images.githubusercontent.com/94011974/177643264-91de1d76-5f85-4b1b-ab0a-22a2e65e450d.jpg)
 
 ***
 
